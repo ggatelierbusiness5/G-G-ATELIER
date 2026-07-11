@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ggatelierbusiness5.github.io/G-G-ATELIER/sitemap.xml
