@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">G&amp;G Atelier monogram</title>
+  <desc id="desc">Forest green square with a fine antique-gold frame and an ivory G and G monogram.</desc>
+  <rect width="512" height="512" rx="32" fill="#18332b"/>
+  <rect x="26" y="26" width="460" height="460" rx="20" fill="none" stroke="#b8955f" stroke-width="3"/>
+  <circle cx="256" cy="256" r="174" fill="none" stroke="#b8955f" stroke-width="1.5" opacity=".7"/>
+  <text x="256" y="288" text-anchor="middle" fill="#f4efe5" font-family="Georgia, 'Times New Roman', serif" font-size="122" letter-spacing="-8">G&amp;G</text>
+  <text x="256" y="348" text-anchor="middle" fill="#b8955f" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="12">ATELIER</text>
+</svg>
